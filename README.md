@@ -1,8 +1,8 @@
 ##  QA Engineer
 ##  My CV
-[ Ссылка на мое резюме ](https://drive.google.com/file/d/1LcgoKaxR-s7VFqs8V8Z2iSSY2EOrtHWx/view?usp=sharing)
+[ Link CV ](https://drive.google.com/file/d/1LcgoKaxR-s7VFqs8V8Z2iSSY2EOrtHWx/view?usp=sharing)
 
-###  My ertificates
+###  My Certificates
 
 - [ Postman API Сertificate ] (https://drive.google.com/file/d/1aYVxcMNSveW31Q7ANZm4WqBSkbYVAA1v/view?usp=sharing)
 - [ JavaScript Сertificate ] (https://drive.google.com/file/d/1bBBf5s0B-BHrB5y4xsH1tzZqLPLOm_tQ/view?usp=sharing)
