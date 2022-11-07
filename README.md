@@ -2,7 +2,7 @@
 ##  My CV
 [ Link CV ENG ](https://drive.google.com/file/d/1LcgoKaxR-s7VFqs8V8Z2iSSY2EOrtHWx/view?usp=sharing)
 
-[ Link CV RUS ](https://drive.google.com/file/d/115fQzeUQZ8rXviWrdTv2Wnv77hSn4MoH/view?usp=share_link)
+[ Link CV RUS ](https://drive.google.com/file/d/1_EVaxhJh3bp6a7Syi37ohEyGAFUcWh-s/view?usp=share_link)
 
 ###  My Certificates
 
